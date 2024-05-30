@@ -2,7 +2,7 @@
 
 ## Learning app
 
-Full-stack Rails app as part of Le Wagon bootcamp.
+Full-stack Rails app
 
 ### Why?
 To practice MVC, CRUD actions and routing within Rails framework.
