@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Learning app
 
-Things you may want to cover:
+Full-stack Rails app as part of Le Wagon bootcamp.
 
-* Ruby version
+### Why?
+To practice MVC, CRUD actions and routing within Rails framework.
 
-* System dependencies
+### What does it do?
+* Lists restaurants and associated reviews
+* Allows users to update a restaurant and a review.
+* Admin can update and delete
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![homeage image](app/assets/images/homepage_readme.png?raw=true)
